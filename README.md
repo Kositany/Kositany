@@ -9,7 +9,7 @@
 - 🤖 Passionate about the future of **AI + web technologies**
 - 💬 Ask me about: `HTML` · `CSS` · `JavaScript` · `Vue.js` · `Python`
 - 🌱 Constantly learning: **front-end design**, **accessibility**, and **AI integration**
-- 📫 Reach me: **kipkosi3@gmail.com** | [🔗 LinkedIn](https://linkedin.com/in/kositany)
+- 📫 Reach me: **kipkosi3@gmail.com** | [🔗 LinkedIn](https://www.linkedin.com/in/marco-kositany-095447272)
 - 🤝 Open to: **open-source collabs**, cool side projects & dev community vibes
 
 ---
