@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#fca311">Marco (Kositany)</span></h1>
-<h3 align="center">🚀 Aspiring Front-End Developer | Just an Enthusiast | Web Dev Explorer</h3>
+<h3 align="center">🚀 Front-End Developer | Just a Tech Enthusiast | Web Dev Explorer</h3>
 
 ---
 
