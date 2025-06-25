@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,python,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,python,git,figma&theme=dark" />
 </p>
 
 ---
@@ -23,8 +23,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kositany&show_icons=true&theme=radical" alt="Kositany's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kositany&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kositany&show_icons=true&theme=dark" alt="Kositany's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kositany&layout=compact&theme=dark" />
 </p>
 
 ---
